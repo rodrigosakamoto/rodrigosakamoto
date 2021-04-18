@@ -1,12 +1,9 @@
 # Rodrigo Sakamoto
 
-Software Developer
+Developer at <a href="https://github.com/Coderockr">Coderockr</a>.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Sakamoto-9146ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-sakamoto/)](https://www.linkedin.com/in/rodrigo-sakamoto/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodosakamoto@gmail.com-9146ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodosakamoto@gmail.com)](mailto:rodosakamoto@gmail.com)
-
-- 🌱 I'm currently learning Node.js, React and React Native
-- 💻 All of my projects are available at https://github.com/rodrigosakamoto
 
 <blockquote align="center">"Baby steps to giant strides"</blockquote>
 
